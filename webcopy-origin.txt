@@ -1,0 +1,820 @@
+Uri: https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Pacifico|Varela+Round|Poppins
+File Name: C:\Downloaded Web Sites\nouthemes.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNK.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\librebaskerville\v24\kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkiDgNK.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\librebaskerville\v24\kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkiDgNK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SjNNluI.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\librebaskerville\v24\kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SjNNluI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pacifico/v23/FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\pacifico\v23\FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\s\varelaround\v21\w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCIy8l8gSJaMoUvCZJv8AyCAw3CU07nCKs&region=GB
+File Name: C:\Downloaded Web Sites\nouthemes.net\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDC9UyRrFn8cIqD5cAtLYg3aVSNREWuaQQ&callback=initMap
+File Name: C:\Downloaded Web Sites\nouthemes.net\maps\api\js-1
+Content Type: text/javascript
+
+Uri: https://nouthemes.net/html/bakery/404.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\404.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/about.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\about.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/blog-detail.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\blog-detail.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/blog-listing.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\blog-listing.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/cart.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\cart.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/checkout.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\checkout.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/contact-2.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\contact-2.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/contact.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\contact.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/css/style.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\css\style.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/favicon.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\favicon.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/homepage-2.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\homepage-2.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/homepage-3.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\homepage-3.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/images/about/about-intro-2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\about\about-intro-2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/about/about-intro.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\about\about-intro.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/about/img-signature.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\about\img-signature.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/action-mobile.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\action-mobile.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/app.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\app.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/award/01.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\award\01.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/award/02.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\award\02.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/background/badge-1.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\background\badge-1.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/background/badge-2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\background\badge-2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/background/down.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\background\down.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/background/pattern-2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\background\pattern-2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/background/up.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\background\up.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/banner/img-slider-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\banner\img-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/banner/img-slider-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\banner\img-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/banner/img-slider-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\banner\img-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/banner/img-slider-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\banner\img-slider-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/img-blog-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\img-blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/img-blog-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\img-blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/img-blog-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\img-blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/img-blog-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\img-blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/img-blog-5.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\img-blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/people.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\people.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/blog/thumbnail1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\thumbnail1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/thumbnail2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\thumbnail2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/blog/thumbnail3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\blog\thumbnail3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-10.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-10.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-11.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-11.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-12.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-12.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-13.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-13.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-14.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-14.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-15.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-15.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-16.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-16.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-17.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-17.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-18.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-18.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-20.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-20.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-21.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-21.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-5.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-5.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-6.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-6.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-7.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-7.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-8.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-8.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cake-9.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cake-9.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cr-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cr-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cr-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cr-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cr-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cr-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/cake/img-cr-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\cake\img-cr-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/counter.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\counter.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/hero/01.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\hero\01.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/hero/02.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\hero\02.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/hero/03.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\hero\03.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/img-demo-4.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\img-demo-4.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/logo-1.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\logo-1.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/logo-2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\logo-2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/new/new-large.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\new\new-large.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/new/new-small-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\new\new-small-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/new/new-small-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\new\new-small-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/offer/banner-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\offer\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/offer/banner-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\offer\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/offer/banner-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\offer\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/offer/banner-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\offer\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/partner/1.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\1.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/3.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\3.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/4.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\4.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/5.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\5.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/6.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\6.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/7.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\7.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/partner/8.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\partner\8.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/payment/1.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\payment\1.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/payment/2.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\payment\2.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/payment/3.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\payment\3.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/payment/4.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\payment\4.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/payment/5.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\payment\5.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/images/product-banner/012x.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\product-banner\012x.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/product-banner/022x.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\product-banner\022x.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/img-cr-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\img-cr-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/img-cr-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\img-cr-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/img-cr-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\img-cr-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/img-cr-4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\img-cr-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/img-cr-5.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\img-cr-5.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/small01.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\small01.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/small02.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\small02.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/small03.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\small03.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/small04.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\small04.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/special/small05.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\special\small05.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/team/team-3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/testimonial/1.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\testimonial\1.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/testimonial/2.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\testimonial\2.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/testimonial/3.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\testimonial\3.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/testimonial/4.jpg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\testimonial\4.jpg
+Content Type: image/jpeg
+
+Uri: https://nouthemes.net/html/bakery/images/widget/banner2x.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\images\widget\banner2x.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/index.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\index.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/js/main.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\js\main.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/menu-1.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\menu-1.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/menu-2.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\menu-2.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/order-form.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\order-form.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap-datetimepicker\build\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap-datetimepicker\build\js\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://nouthemes.net/html/bakery/plugins/bootstrap/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\bootstrap\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://nouthemes.net/html/bakery/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://nouthemes.net/html/bakery/plugins/gmap3.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\gmap3.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/imagesloaded.pkgd.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\imagesloaded.pkgd.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-bar-rating/dist/jquery.barrating.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-bar-rating\dist\jquery.barrating.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-bar-rating\dist\themes\fontawesome-stars.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-nice-select/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-nice-select\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery-ui/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery-ui\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/jquery/dist/jquery.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/css/lightgallery.min.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/img/loading.gif
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\img\loading.gif
+Content Type: image/gif
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/img/video-play.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\img\video-play.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/lightGallery-master/dist/js/lightgallery-all.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\lightGallery-master\dist\js\lightgallery-all.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/Magnific-Popup/dist/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\Magnific-Popup\dist\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/Magnific-Popup/dist/magnific-popup.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\Magnific-Popup\dist\magnific-popup.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/moment.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\moment.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/overflow-text.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\overflow-text.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/owl-carousel/assets/owl.carousel.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\owl-carousel\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/ps-icon/fonts/ps-icon.eot?9e9lsj
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\ps-icon\fonts\ps-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/ps-icon/fonts/ps-icon.svg?9e9lsj
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\ps-icon\fonts\ps-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://nouthemes.net/html/bakery/plugins/ps-icon/fonts/ps-icon.ttf?9e9lsj
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\ps-icon\fonts\ps-icon.ttf
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/ps-icon/fonts/ps-icon.woff?9e9lsj
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\ps-icon\fonts\ps-icon.woff
+Content Type: application/font-woff
+
+Uri: https://nouthemes.net/html/bakery/plugins/ps-icon/ps-icon.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\ps-icon\ps-icon.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\fonts\revicons\revicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/plugins/slick/slick/slick.css
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\slick\slick\slick.css
+Content Type: text/css
+
+Uri: https://nouthemes.net/html/bakery/plugins/slick/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\plugins\slick\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://nouthemes.net/html/bakery/product-detail.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\product-detail.html
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/#
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\#
+Content Type: text/html
+
+Uri: https://nouthemes.net/html/bakery/product-listing.html
+File Name: C:\Downloaded Web Sites\nouthemes.net\html\bakery\product-listing.html
+Content Type: text/html
+
