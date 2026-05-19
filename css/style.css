@@ -946,7 +946,6 @@ iframe {
   max-width: 100%;
   width: 100%;
 }
-
 * {
   font-family: "Varela Round", sans-serif;
   font-weight: 400;
@@ -1511,7 +1510,7 @@ textarea.form-control {
 .menu-toggle {
   position: relative;
   display: inline-block;
-  width: 30px;
+  width: 81px;
   height: 30px;
   overflow: hidden;
   display: none;
@@ -1666,7 +1665,7 @@ textarea.form-control {
 }
 .btn-bannar{
   position: absolute;
-  margin: 118px 30px;
+  margin: 103px 30px;
   background-image: linear-gradient(90deg,#fff, #fff);
   color: black;
   z-index: 41;
@@ -3519,9 +3518,11 @@ textarea.form-control {
   }
   .ps-breadcrumb .breadcrumb li {
     font-size: 12px;
+    color: saddlebrown;
   }
   .ps-breadcrumb .breadcrumb a {
     font-size: 12px;
+    color: black;
   }
 }
 
@@ -3877,20 +3878,20 @@ textarea.form-control {
   width: 100%;
   /*! height: 16px; */
   z-index: 10;
-  margin: 36px;
+  margin: 26px;
   font-size: 30px;
   position: absolute;
-  padding: 38px 0;
+  padding: 26px 0;
   color: white;
 }
-.ps-offer .ps-offer__overlay {
+.ps-offer .ps-offer__overlay{
   position: absolute;
   width: 100%;
   /*! height: 16px; */
   z-index: 10;
-  margin: 40px;
+  margin: 25px;
   font-size: 30px;
-  padding: 1px 0;
+  padding: 0px 0;
   color: white;
 }
 .ps-offer img {
@@ -5011,8 +5012,8 @@ textarea.form-control {
   #modal--subscribe {
     max-width: 800px;
   }
-  #modal--subscribe img {
-    width: 280px;
+  #modal--subscribe img{
+    width: 100%;
   }
   #modal--subscribe form {
     right: 15px;
@@ -5023,10 +5024,11 @@ textarea.form-control {
 @media (max-width: 767px) {
   #modal--subscribe {
     text-align: center;
-    max-width: 600px;
+    max-width: 100%;
+    padding: 0;
   }
   #modal--subscribe img {
-    width: 200px;
+    width: 100%;
   }
   #modal--subscribe form {
     padding: 30px;
@@ -5045,7 +5047,7 @@ textarea.form-control {
 @media (max-width: 479px) {
   #modal--subscribe {
     display: block;
-    max-width: 260px;
+    max-width: 100%;
   }
   #modal--subscribe form {
     padding: 30px 0;
@@ -5579,7 +5581,7 @@ textarea.form-control {
     -o-transform: translate(0, 0);
     transform: translate(0, 0);
   }
-  .ps-section--hero .ps-section__title {
+  .ps-section--hero .ps-section__title{
     color: #000;
   }
 }
@@ -5691,18 +5693,24 @@ textarea.form-control {
   width: 1360px !important;
 }
 .ps .ps-section__content p{
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.5em;
   margin-bottom: 10px;
 }
-.ps-section--about .ps-section__content .ps-about-sign {
-  text-align: center;
-  font-family: "Libre Baskerville", serif;
-  font-size: 14px;
-  font-style: italic;
-  color: rgba(78, 57, 57, 0.8);
+.ps-section__content h3
+{
+  color: saddlebrown;
 }
-
+.ps-section__content ul li{
+ font-size: 18px;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+  font-family: "Varela Round", sans-serif;
+  color: #4e3939;
+  list-style: 
+disclosure-closed; 
+ margin-left: 20px;
+}
 @media (max-width: 767px) {
   .ps-section--about {
     text-align: center;
@@ -6410,6 +6418,44 @@ textarea.form-control {
   -ms-transform: translateY(-50%) rotate(-90deg);
   -o-transform: translateY(-50%) rotate(-90deg);
   transform: translateY(-50%) rotate(-90deg);
+}
+@media screen and (min-width: 230px) and (max-width:760px)
+{
+  .new-launch a img {
+  width: 80px !important;
+  margin-top: 0px !important;
+}
+.whatsapp-sign a img{
+  width: 30px !important;
+  position: absolute;
+  margin-top: -3px !important;
+  display: inline-block;
+}
+}
+@media screen and (min-width: 230px) and (max-width:951px)
+{
+.ps-banner--home-1{
+  display: none;
+}
+.cust
+{
+  display: none;
+}
+.text-sec
+{
+  display: none;
+}
+}
+@media screen and (min-width: 951px) and (max-width:2500px)
+{
+  .cust-sm
+  {
+    display: none;
+  }
+#wowslider-container1
+  {
+  display: none !important;
+}
 }
  .new-launch a img
 {
@@ -8026,14 +8072,16 @@ textarea.form-control {
   .header {
     position: relative;
   }
-  .header .header__top p {
-    text-align: right;
+  .header .header__top p{
+    /*! text-align: right; */
+    font-size: 17px;
+    margin-left: 0;
   }
   .header .ps-logo {
     position: relative;
     display: inline-block;
     top: 0;
-    width: 60px;
+    width: 115px;
     margin: 0;
   }
   .header .navigation {
@@ -8051,7 +8099,7 @@ textarea.form-control {
     display: block;
     float: right;
     top: 50%;
-    right: 15px;
+    right: 20px;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -8088,9 +8136,14 @@ textarea.form-control {
     border-right: 1px solid #eaeaea;
     border-left: none;
   }
-  .header .header__top p {
-    font-size: 10px;
+  .header .header__top p{
+    font-size: 13px;
+    margin-left: 0;
   }
+}
+
+.new-launch a img {
+  min-width: 138px;
 }
 
 @media (max-width: 479px) {
@@ -9235,7 +9288,7 @@ details:not([open])::details-content {
            ========================================== */
 @media (max-width: 768px) {
 	body {
-		padding: 1rem 0;
+		/*! padding: 1rem 0; */
 	}
 
 	.container {
