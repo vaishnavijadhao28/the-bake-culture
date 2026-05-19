@@ -6434,7 +6434,7 @@ disclosure-closed;
 }
 @media screen and (min-width: 230px) and (max-width:951px)
 {
-.wow-slider-lg{
+#wowslider-container2{
   display: none;
 }
 .cust
